@@ -3,7 +3,7 @@
     "Author":  "Vain09",
     "Name":  "Shot Studio",
     "InternalName":  "ShotStudio",
-    "AssemblyVersion":  "0.2.0.0",
+    "AssemblyVersion":  "0.2.1.0",
     "Description":  "Takes GPose screenshots in 4K or larger with your ReShade or GShade effects included. The game briefly renders at the bigger size, your shader screenshot key is pressed for you, and the size goes back. Only works while GPose is open.",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  15,
@@ -14,13 +14,13 @@
     "Punchline":  "4K GPose screenshots with your shaders.",
     "AcceptsFeedback":  true,
     "RepoUrl":  "https://github.com/Vain09/ShotStudio-plugin",
-    "TestingAssemblyVersion":  "0.2.0.0",
+    "TestingAssemblyVersion":  "0.2.1.0",
     "IsHide":  false,
     "IsTestingExclusive":  false,
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/Vain09/ShotStudio-plugin/main/download/ShotStudio.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Vain09/ShotStudio-plugin/main/download/ShotStudio.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/Vain09/ShotStudio-plugin/main/download/ShotStudio.zip",
-    "LastUpdate":  1795487060,
+    "LastUpdate":  1795487868,
     "DownloadCount":  0
 }
 ]
